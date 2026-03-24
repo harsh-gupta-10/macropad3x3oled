@@ -181,7 +181,6 @@ Files are in the `cad/` and `production/` directories. 3D printing materials: PL
 - **Raspberry Pi Pico Documentation**: https://www.raspberrypi.org/documentation/microcontrollers/raspberry-pi-pico.html
 - **CircuitPython**: https://circuitpython.org/
 - **KiCAD**: https://www.kicad.org/
-- **JLCPCB**: https://jlcpcb.com/
 
 ---
 
