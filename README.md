@@ -185,15 +185,13 @@ Files are in the `cad/` and `production/` directories. 3D printing materials: PL
 
 ---
 
-## Credits & Acknowledgements
+##  Acknowledgements
 
-Design and documentation by: https://github.com/harsh-gupta-10
 
 Resources used:
 - Raspberry Pi Foundation (RP2040 documentation)
 - Circuit Python community
 - KiCAD open-source PCB design tools
-- QMK Firmware (reference implementations)
 
 ---
 
