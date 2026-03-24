@@ -1,0 +1,105 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.pyc
+*.pyo
+venv/
+ENV/
+env/
+.venv
+
+# Firmware
+firmware/build/
+firmware/dist/
+firmware/.build/
+
+# Software/Node (if using Node.js)
+software/node_modules/
+software/dist/
+software/build/
+software/.next/
+software/out/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+.vim/
+.emacs.d/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+poetry.lock
+
+# Build artifacts
+*.o
+*.a
+*.lib
+*.obj
+build/
+dist/
+
+# KiCAD (PCB design)
+pcb/**/*-cache.kicad_sch
+pcb/**/*.kicad_pcb-bak
+pcb/**/*.kicad_sch-bak
+pcb/**/fp-info-cache
+
+# CAD Files (large binaries)
+cad/**/*.3mf
+production/**/*.stl
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.swp
+*~
+.~*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
